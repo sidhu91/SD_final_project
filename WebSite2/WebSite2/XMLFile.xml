@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <Tenant>
+    <Tenantname>ajayara7</Tenantname>
+    <Servicename>TemperatureConv</Servicename>
+    <ServiceDescription>Conversion from celcius to Farenheit</ServiceDescription>
+    <Input>
+      <inpparam>temp</inpparam>
+      <inptype>double</inptype>
+    </Input>
+    <outparam>convtemp</outparam>
+    <outtype>double</outtype>
+    <sampleinp>39</sampleinp>
+    <sampleout>102</sampleout>
+  </Tenant>
+</xml>
